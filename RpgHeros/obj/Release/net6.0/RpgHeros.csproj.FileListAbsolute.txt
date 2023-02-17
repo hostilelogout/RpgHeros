@@ -1,0 +1,15 @@
+C:\Users\simon\source\repos\RpgHeros\bin\Release\net6.0\RpgHeros.exe
+C:\Users\simon\source\repos\RpgHeros\bin\Release\net6.0\RpgHeros.deps.json
+C:\Users\simon\source\repos\RpgHeros\bin\Release\net6.0\RpgHeros.runtimeconfig.json
+C:\Users\simon\source\repos\RpgHeros\bin\Release\net6.0\RpgHeros.dll
+C:\Users\simon\source\repos\RpgHeros\bin\Release\net6.0\RpgHeros.pdb
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\RpgHeros.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\RpgHeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\RpgHeros.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\RpgHeros.AssemblyInfo.cs
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\RpgHeros.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\RpgHeros.dll
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\refint\RpgHeros.dll
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\RpgHeros.pdb
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\RpgHeros.genruntimeconfig.cache
+C:\Users\simon\source\repos\RpgHeros\obj\Release\net6.0\ref\RpgHeros.dll
